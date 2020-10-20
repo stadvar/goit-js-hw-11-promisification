@@ -1,0 +1,9 @@
+.nav .nav-link {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid tomato;
+  border-radius: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
